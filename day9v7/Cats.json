@@ -1,0 +1,42 @@
+{
+  "Cats": [
+    {
+      "Name": "Barsik",
+      "Description": "Cute and happy",
+      "Weight": 4200,
+      "FavouriteToy": {
+        "Name": "Mouse",
+        "Price": 200
+      },
+      "FoodsThatItEats": [
+        {
+          "Name": "Fish",
+          "Nutrition": 130
+        },
+        {
+          "Name": "Meat",
+          "Nutrition": 200
+        }
+      ]
+    },
+    {
+      "Name": "Roma",
+      "Description": "Ginger and sad",
+      "Weight": 5700,
+      "FavouriteToy": {
+        "Name": "Shaslik",
+        "Price": 30
+      },
+      "FoodsThatItEats": [
+        {
+          "Name": "Draniki",
+          "Nutrition": 100
+        },
+        {
+          "Name": "Pate`",
+          "Nutrition": 302
+        }
+      ]
+    }
+  ]
+}
